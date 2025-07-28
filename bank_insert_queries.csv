@@ -1,0 +1,101 @@
+Bank_ID,Bank_Name,Branch,City,State,Zip_Code,IFSC_Code
+1,Kotak Mahindra Bank,Industrial,Pune,Tamil Nadu,963437,KMBI5306
+2,Kotak Mahindra Bank,Urban,Hyderabad,Tamil Nadu,363507,KMBU1304
+3,IDBI Bank,Industrial,Lucknow,Gujarat,367039,IBI8896
+4,Yes Bank,Urban,Pune,Madhya Pradesh,751722,YBU9849
+5,Bank of Baroda,Main,Mumbai,Gujarat,540897,BOBM6331
+6,Canara Bank,North,Lucknow,Uttar Pradesh,697528,CBN1925
+7,Kotak Mahindra Bank,West,Chennai,West Bengal,948110,KMBW6930
+8,HDFC Bank,West,Delhi,West Bengal,975861,HBW3392
+9,HDFC Bank,Main,Mumbai,West Bengal,517487,HBM5564
+10,Yes Bank,Main,Bangalore,Telangana,818525,YBM2330
+11,Axis Bank,West,Hyderabad,Tamil Nadu,118955,ABW8895
+12,HDFC Bank,Rural,Ahmedabad,West Bengal,648450,HBR4631
+13,HDFC Bank,South,Pune,Delhi,969203,HBS2674
+14,ICICI Bank,Main,Bangalore,Maharashtra,253543,IBM7266
+15,Canara Bank,Urban,Jaipur,Karnataka,766028,CBU4200
+16,Axis Bank,Metro,Chennai,Delhi,211737,ABM2436
+17,Punjab National Bank,West,Delhi,Madhya Pradesh,163747,PNBW7581
+18,ICICI Bank,Urban,Mumbai,Rajasthan,879004,IBU1641
+19,HDFC Bank,Industrial,Chennai,Telangana,488776,HBI5501
+20,Bank of Baroda,East,Chennai,Gujarat,438671,BOBE6457
+21,Canara Bank,Metro,Jaipur,Karnataka,839339,CBM9161
+22,HDFC Bank,Urban,Lucknow,Rajasthan,112707,HBU3458
+23,Axis Bank,Urban,Lucknow,Maharashtra,860444,ABU2081
+24,Canara Bank,Main,Mumbai,West Bengal,192056,CBM9280
+25,ICICI Bank,Industrial,Bangalore,Maharashtra,461807,IBI8955
+26,IDBI Bank,Urban,Lucknow,Karnataka,674371,IBU7165
+27,ICICI Bank,Central,Mumbai,Madhya Pradesh,298857,IBC1009
+28,Kotak Mahindra Bank,Main,Chennai,Uttar Pradesh,672707,KMBM3901
+29,Yes Bank,West,Jaipur,Telangana,692595,YBW3890
+30,State Bank of India,East,Delhi,Maharashtra,523372,SBOIE9729
+31,ICICI Bank,Industrial,Pune,West Bengal,883346,IBI6511
+32,Kotak Mahindra Bank,Main,Hyderabad,Rajasthan,336991,KMBM5921
+33,Punjab National Bank,Industrial,Bangalore,Madhya Pradesh,705079,PNBI9321
+34,Yes Bank,Urban,Delhi,Maharashtra,233548,YBU9945
+35,IDBI Bank,Urban,Jaipur,Tamil Nadu,436815,IBU2793
+36,HDFC Bank,West,Lucknow,Tamil Nadu,912900,HBW7244
+37,Kotak Mahindra Bank,Central,Jaipur,Uttar Pradesh,304576,KMBC5438
+38,HDFC Bank,Urban,Hyderabad,Telangana,939513,HBU3044
+39,HDFC Bank,West,Jaipur,Tamil Nadu,103880,HBW4273
+40,Yes Bank,West,Pune,Delhi,356817,YBW9205
+41,Canara Bank,East,Pune,Tamil Nadu,277135,CBE2843
+42,Yes Bank,West,Mumbai,West Bengal,358925,YBW7187
+43,IDBI Bank,South,Jaipur,West Bengal,419041,IBS4323
+44,State Bank of India,West,Chennai,Madhya Pradesh,451897,SBOIW5705
+45,Punjab National Bank,Urban,Kolkata,Madhya Pradesh,451337,PNBU6256
+46,Yes Bank,Industrial,Kolkata,Rajasthan,674155,YBI9623
+47,Canara Bank,Urban,Pune,Uttar Pradesh,405691,CBU7952
+48,State Bank of India,East,Chennai,Madhya Pradesh,209138,SBOIE5076
+49,Axis Bank,Central,Chennai,Tamil Nadu,723351,ABC3972
+50,ICICI Bank,South,Hyderabad,Madhya Pradesh,106356,IBS5686
+51,IDBI Bank,Metro,Delhi,Karnataka,785304,IBM8175
+52,IDBI Bank,Metro,Kolkata,Uttar Pradesh,413604,IBM5960
+53,Punjab National Bank,Urban,Mumbai,Gujarat,909307,PNBU2935
+54,ICICI Bank,Rural,Chennai,Delhi,421837,IBR7379
+55,Canara Bank,Urban,Ahmedabad,Uttar Pradesh,525875,CBU1699
+56,State Bank of India,Urban,Jaipur,Delhi,452397,SBOIU8602
+57,Axis Bank,West,Pune,Uttar Pradesh,767598,ABW7674
+58,Punjab National Bank,Metro,Pune,West Bengal,607345,PNBM4514
+59,IDBI Bank,Main,Hyderabad,Madhya Pradesh,366198,IBM4824
+60,IDBI Bank,North,Delhi,Gujarat,929871,IBN3701
+61,ICICI Bank,Rural,Bangalore,Tamil Nadu,748974,IBR7618
+62,Kotak Mahindra Bank,Metro,Ahmedabad,Tamil Nadu,937738,KMBM2257
+63,Punjab National Bank,North,Lucknow,Uttar Pradesh,378305,PNBN6854
+64,Kotak Mahindra Bank,Main,Jaipur,Telangana,695818,KMBM3698
+65,Bank of Baroda,Urban,Jaipur,Telangana,821289,BOBU6738
+66,Punjab National Bank,West,Hyderabad,Telangana,163871,PNBW9137
+67,IDBI Bank,Industrial,Hyderabad,Maharashtra,531308,IBI6565
+68,Axis Bank,Metro,Chennai,Delhi,489097,ABM4284
+69,IDBI Bank,South,Ahmedabad,Telangana,262796,IBS5658
+70,ICICI Bank,East,Mumbai,Rajasthan,800689,IBE9384
+71,State Bank of India,Main,Chennai,West Bengal,818378,SBOIM8080
+72,ICICI Bank,West,Jaipur,West Bengal,375109,IBW6521
+73,Kotak Mahindra Bank,West,Hyderabad,Uttar Pradesh,119900,KMBW1560
+74,HDFC Bank,Main,Ahmedabad,Telangana,123883,HBM6501
+75,HDFC Bank,Urban,Kolkata,Maharashtra,807762,HBU3780
+76,IDBI Bank,East,Pune,West Bengal,486476,IBE8787
+77,Kotak Mahindra Bank,Rural,Bangalore,Karnataka,185323,KMBR3101
+78,Axis Bank,East,Mumbai,Madhya Pradesh,783163,ABE8150
+79,Yes Bank,Rural,Delhi,Maharashtra,295632,YBR9826
+80,Bank of Baroda,Rural,Lucknow,Gujarat,692308,BOBR4641
+81,IDBI Bank,Industrial,Pune,Karnataka,219923,IBI8351
+82,Punjab National Bank,Urban,Kolkata,West Bengal,112094,PNBU6408
+83,Yes Bank,South,Chennai,Tamil Nadu,531338,YBS1927
+84,Bank of Baroda,East,Chennai,Uttar Pradesh,786620,BOBE9587
+85,IDBI Bank,Central,Jaipur,Karnataka,852362,IBC2457
+86,Kotak Mahindra Bank,Central,Delhi,West Bengal,366378,KMBC9661
+87,State Bank of India,South,Ahmedabad,West Bengal,916781,SBOIS7335
+88,Yes Bank,North,Hyderabad,Maharashtra,742472,YBN9358
+89,ICICI Bank,East,Jaipur,Uttar Pradesh,200611,IBE4028
+90,Kotak Mahindra Bank,Industrial,Mumbai,Tamil Nadu,754224,KMBI1260
+91,Canara Bank,Urban,Mumbai,Gujarat,202335,CBU6986
+92,HDFC Bank,Metro,Jaipur,Uttar Pradesh,434099,HBM7589
+93,Axis Bank,Urban,Jaipur,Telangana,812662,ABU8930
+94,State Bank of India,Metro,Lucknow,Telangana,742106,SBOIM9911
+95,ICICI Bank,Main,Hyderabad,Gujarat,601789,IBM6761
+96,Bank of Baroda,Main,Hyderabad,Delhi,599327,BOBM2483
+97,Bank of Baroda,Urban,Jaipur,Madhya Pradesh,858081,BOBU7626
+98,Axis Bank,Urban,Hyderabad,Gujarat,150459,ABU8321
+99,State Bank of India,West,Mumbai,Madhya Pradesh,622948,SBOIW4908
+100,IDBI Bank,Main,Chennai,Tamil Nadu,341812,IBM1328
